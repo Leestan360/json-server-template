@@ -3,13 +3,12 @@ const cors = require("cors");
 const path = require("path");
 const server = jsonServer.create();
 const router = jsonServer.router(path.join(__dirname, "db", "db.json"));
-const middlewares = jsonServer.defaults();
+const middlewares = jsonServer.defaults({static: 'images'});
 
 server.use(cors());
 server.use(jsonServer.bodyParser);
 server.use(middlewares);
 server.use(router);
-server.use(jsonServer.static(path.join(__dirname, 'images')));
 
 const PORT = process.env.PORT || 3000;
 
