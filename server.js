@@ -9,6 +9,7 @@ server.use(cors());
 server.use(jsonServer.bodyParser);
 server.use(middlewares);
 server.use(router);
+server.use(jsonServer.static(path.join(__dirname, 'images')));
 
 const PORT = process.env.PORT || 3000;
 
