@@ -9,48 +9,42 @@
       "confirmPassword": "12345678"
     }
   ],
-  "login": [
-    {
-      "email": "stanleymayore2@gmail.com",
-      "password": "12345678"
-    }
-  ],
   "events": [
     {
       "date": "29-07-2022",
       "time": "10:00 A.M",
       "description": "A meeting for stakeholders at Nairobi Hotel",
-      "image": "https://i.ibb.co/RYknWKw/event.jpg"
+      "image": "./event (2).png"
     },
     {
       "date": "30-07-2022",
       "time": "At 04:00 P.M",
       "description": "A wedding planning meeting at Lee Hotel",
-      "image": ""
+      "image": "./event1.png"
     },
     {
       "date": "30-07-2022",
       "time": "At 10:00 A.M",
       "description": "Friends reunion",
-      "image": "../images/event2.jpg"
+      "image": "./event2.png"
     },
     {
       "date": "31-07-2022",
       "time": "At 11:00 A.M",
       "description": "Retirement celebration at Mzee Stanley's home",
-      "image": "../images/event3.jpg"
+      "image": "./event3.png"
     },
     {
       "date": "02-08-2022",
       "time": "At 02:00 P.M",
       "description": "Community service",
-      "image": "../images/event4.jpg"
+      "image": "./event4.png"
     },
     {
       "date": "05-08-2022",
       "time": "At 10:00 A.M",
       "description": "Office tour at Stanley's offices",
-      "image": "../images/event5.jpg"
+      "image": "./event5.png"
     }
   ],
   "weddings": [
@@ -58,37 +52,37 @@
       "date": "29-07-2022",
       "time": "At 10:00 A.M",
       "description": "Stephen and Lucy's wedding at Central Church",
-      "image": "../images/wedding.jpg"
+      "image": "./wedding.png"
     },
     {
       "date": "29-07-2022",
       "time": "At 04:00 P.M",
       "description": "Stephen and Lucy's honeymoon at Dubai",
-      "image": "../images/wedding1.jpg"
+      "image": "./wedding1.png"
     },
     {
       "date": "30-07-2022",
       "time": "At 10:00 A.M",
       "description": "Marriage celebration party",
-      "image": "../images/wedding2.jpg"
+      "image": "./wedding2.png"
     },
     {
       "date": "29-07-2022",
       "time": "At 03:00 P.M",
       "description": "A small wedding attended by only invited guests",
-      "image": "../images/wedding3.jpg"
+      "image": "./wedding3.png"
     },
     {
       "date": "31-07-2022",
       "time": "At 10:00 A.M",
       "description": "David and Beatrice's wedding at Central Church",
-      "image": "../images/wedding4.jpg"
+      "image": "./wedding4.png"
     },
     {
       "date": "05-08-2022",
       "time": "At 10:00 A.M",
       "description": "Wedding celebration party",
-      "image": "../images/wedding5.jpg"
+      "image": "./wedding5.png"
     }
   ],
   "requests": [
