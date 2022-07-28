@@ -90,5 +90,11 @@
       "description": "Wedding celebration party",
       "image": "../images/wedding5.jpg"
     }
+  ],
+  "requests": [
+    {
+      "fullName": "Stanley Mayore",
+      "details": "Plan my wedding"
+    }
   ]
 }
